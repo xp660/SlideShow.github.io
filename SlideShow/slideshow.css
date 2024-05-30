@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(252,255,254);
+}
+
+.slide-pic{
+    width: 100%;
+    height: 60%;
+}
+
+.carousel-item h2{
+    color: yellow;
+   /* position: relative;
+    left:150px; */
+    margin-left: 50px;  
+    background: linear-gradient(90deg, rgba(197,226,232,0.8099614845938375) 25%, rgba(87,125,222,0.8463760504201681) 33%, rgba(87,125,222,0.896796218487395) 70%, rgba(197,226,232,0.6923144257703081) 80%);
+}
